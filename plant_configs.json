@@ -1,0 +1,6 @@
+{ "camira": {"db_name":"CamiraAS400",
+              "custom_etl": {"bom": "CamiraBOMImporter"}},
+
+  "finnebrogue": {"db_name": "SI_FB_Flexciton"},
+
+  "alex_begg": {"db_name": "ALEX_BEGG_DB"}}
